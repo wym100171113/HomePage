@@ -1,6 +1,6 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
+		"title": "岳翔宇",
 		"description": "Author:SimonMa,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
@@ -31,12 +31,12 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "wym100171113@outlook.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/wym100171113",
 				"icon": "github",
 				"text": "Github"
 			}
